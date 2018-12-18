@@ -1,0 +1,95 @@
+var hierarchy =
+[
+    [ "spdlog::async_factory_impl< OverflowPolicy >", "structspdlog_1_1async__factory__impl.html", null ],
+    [ "spdlog::details::async_msg", "structspdlog_1_1details_1_1async__msg.html", null ],
+    [ "spdlog::details::bytes_range< It >", "classspdlog_1_1details_1_1bytes__range.html", null ],
+    [ "spdlog::details::circular_q< T >", "classspdlog_1_1details_1_1circular__q.html", null ],
+    [ "spdlog::details::circular_q< item_type >", "classspdlog_1_1details_1_1circular__q.html", null ],
+    [ "spdlog::details::console_mutex", "structspdlog_1_1details_1_1console__mutex.html", null ],
+    [ "spdlog::details::console_nullmutex", "structspdlog_1_1details_1_1console__nullmutex.html", null ],
+    [ "spdlog::details::console_stderr", "structspdlog_1_1details_1_1console__stderr.html", null ],
+    [ "spdlog::details::console_stdout", "structspdlog_1_1details_1_1console__stdout.html", null ],
+    [ "spdlog::sinks::daily_filename_calculator", "structspdlog_1_1sinks_1_1daily__filename__calculator.html", null ],
+    [ "abscodes::spdlog::dummy", "classabscodes_1_1spdlog_1_1dummy.html", null ],
+    [ "enable_shared_from_this", null, [
+      [ "spdlog::async_logger", "classspdlog_1_1async__logger.html", null ]
+    ] ],
+    [ "std::exception", null, [
+      [ "spdlog::spdlog_ex", "classspdlog_1_1spdlog__ex.html", null ]
+    ] ],
+    [ "spdlog::details::file_helper", "classspdlog_1_1details_1_1file__helper.html", null ],
+    [ "spdlog::details::flag_formatter", "classspdlog_1_1details_1_1flag__formatter.html", [
+      [ "spdlog::details::a_formatter", "classspdlog_1_1details_1_1a__formatter.html", null ],
+      [ "spdlog::details::A_formatter", "classspdlog_1_1details_1_1_a__formatter.html", null ],
+      [ "spdlog::details::aggregate_formatter", "classspdlog_1_1details_1_1aggregate__formatter.html", null ],
+      [ "spdlog::details::B_formatter", "classspdlog_1_1details_1_1_b__formatter.html", null ],
+      [ "spdlog::details::b_formatter", "classspdlog_1_1details_1_1b__formatter.html", null ],
+      [ "spdlog::details::C_formatter", "classspdlog_1_1details_1_1_c__formatter.html", null ],
+      [ "spdlog::details::c_formatter", "classspdlog_1_1details_1_1c__formatter.html", null ],
+      [ "spdlog::details::ch_formatter", "classspdlog_1_1details_1_1ch__formatter.html", null ],
+      [ "spdlog::details::color_start_formatter", "classspdlog_1_1details_1_1color__start__formatter.html", null ],
+      [ "spdlog::details::color_stop_formatter", "classspdlog_1_1details_1_1color__stop__formatter.html", null ],
+      [ "spdlog::details::D_formatter", "classspdlog_1_1details_1_1_d__formatter.html", null ],
+      [ "spdlog::details::d_formatter", "classspdlog_1_1details_1_1d__formatter.html", null ],
+      [ "spdlog::details::E_formatter", "classspdlog_1_1details_1_1_e__formatter.html", null ],
+      [ "spdlog::details::e_formatter", "classspdlog_1_1details_1_1e__formatter.html", null ],
+      [ "spdlog::details::F_formatter", "classspdlog_1_1details_1_1_f__formatter.html", null ],
+      [ "spdlog::details::f_formatter", "classspdlog_1_1details_1_1f__formatter.html", null ],
+      [ "spdlog::details::full_formatter", "classspdlog_1_1details_1_1full__formatter.html", null ],
+      [ "spdlog::details::H_formatter", "classspdlog_1_1details_1_1_h__formatter.html", null ],
+      [ "spdlog::details::I_formatter", "classspdlog_1_1details_1_1_i__formatter.html", null ],
+      [ "spdlog::details::i_formatter", "classspdlog_1_1details_1_1i__formatter.html", null ],
+      [ "spdlog::details::level_formatter", "classspdlog_1_1details_1_1level__formatter.html", null ],
+      [ "spdlog::details::M_formatter", "classspdlog_1_1details_1_1_m__formatter.html", null ],
+      [ "spdlog::details::m_formatter", "classspdlog_1_1details_1_1m__formatter.html", null ],
+      [ "spdlog::details::name_formatter", "classspdlog_1_1details_1_1name__formatter.html", null ],
+      [ "spdlog::details::p_formatter", "classspdlog_1_1details_1_1p__formatter.html", null ],
+      [ "spdlog::details::pid_formatter", "classspdlog_1_1details_1_1pid__formatter.html", null ],
+      [ "spdlog::details::r_formatter", "classspdlog_1_1details_1_1r__formatter.html", null ],
+      [ "spdlog::details::R_formatter", "classspdlog_1_1details_1_1_r__formatter.html", null ],
+      [ "spdlog::details::S_formatter", "classspdlog_1_1details_1_1_s__formatter.html", null ],
+      [ "spdlog::details::short_level_formatter", "classspdlog_1_1details_1_1short__level__formatter.html", null ],
+      [ "spdlog::details::source_filename_formatter", "classspdlog_1_1details_1_1source__filename__formatter.html", null ],
+      [ "spdlog::details::source_linenum_formatter", "classspdlog_1_1details_1_1source__linenum__formatter.html", null ],
+      [ "spdlog::details::source_location_formatter", "classspdlog_1_1details_1_1source__location__formatter.html", null ],
+      [ "spdlog::details::T_formatter", "classspdlog_1_1details_1_1_t__formatter.html", null ],
+      [ "spdlog::details::t_formatter", "classspdlog_1_1details_1_1t__formatter.html", null ],
+      [ "spdlog::details::v_formatter", "classspdlog_1_1details_1_1v__formatter.html", null ],
+      [ "spdlog::details::Y_formatter", "classspdlog_1_1details_1_1_y__formatter.html", null ],
+      [ "spdlog::details::z_formatter", "classspdlog_1_1details_1_1z__formatter.html", null ]
+    ] ],
+    [ "spdlog::formatter", "classspdlog_1_1formatter.html", [
+      [ "spdlog::pattern_formatter", "classspdlog_1_1pattern__formatter.html", null ]
+    ] ],
+    [ "fmt::formatter< spdlog::details::bytes_range< T > >", "structfmt_1_1formatter_3_01spdlog_1_1details_1_1bytes__range_3_01_t_01_4_01_4.html", null ],
+    [ "spdlog::details::log_msg", "structspdlog_1_1details_1_1log__msg.html", null ],
+    [ "spdlog::logger", "classspdlog_1_1logger.html", [
+      [ "spdlog::async_logger", "classspdlog_1_1async__logger.html", null ]
+    ] ],
+    [ "spdlog::details::mpmc_blocking_queue< T >", "classspdlog_1_1details_1_1mpmc__blocking__queue.html", null ],
+    [ "spdlog::details::mpmc_blocking_queue< item_type >", "classspdlog_1_1details_1_1mpmc__blocking__queue.html", null ],
+    [ "spdlog::details::null_atomic_int", "structspdlog_1_1details_1_1null__atomic__int.html", null ],
+    [ "spdlog::details::null_mutex", "structspdlog_1_1details_1_1null__mutex.html", null ],
+    [ "spdlog::details::padding_info", "structspdlog_1_1details_1_1padding__info.html", null ],
+    [ "spdlog::details::periodic_worker", "classspdlog_1_1details_1_1periodic__worker.html", null ],
+    [ "spdlog::details::registry", "classspdlog_1_1details_1_1registry.html", null ],
+    [ "spdlog::details::scoped_pad", "classspdlog_1_1details_1_1scoped__pad.html", null ],
+    [ "spdlog::sinks::sink", "classspdlog_1_1sinks_1_1sink.html", [
+      [ "spdlog::sinks::ansicolor_sink< TargetStream, ConsoleMutex >", "classspdlog_1_1sinks_1_1ansicolor__sink.html", null ],
+      [ "spdlog::sinks::base_sink< Mutex >", "classspdlog_1_1sinks_1_1base__sink.html", [
+        [ "spdlog::sinks::android_sink< Mutex >", "classspdlog_1_1sinks_1_1android__sink.html", null ],
+        [ "spdlog::sinks::basic_file_sink< Mutex >", "classspdlog_1_1sinks_1_1basic__file__sink.html", null ],
+        [ "spdlog::sinks::daily_file_sink< Mutex, FileNameCalc >", "classspdlog_1_1sinks_1_1daily__file__sink.html", null ],
+        [ "spdlog::sinks::dist_sink< Mutex >", "classspdlog_1_1sinks_1_1dist__sink.html", null ],
+        [ "spdlog::sinks::null_sink< Mutex >", "classspdlog_1_1sinks_1_1null__sink.html", null ],
+        [ "spdlog::sinks::ostream_sink< Mutex >", "classspdlog_1_1sinks_1_1ostream__sink.html", null ],
+        [ "spdlog::sinks::rotating_file_sink< Mutex >", "classspdlog_1_1sinks_1_1rotating__file__sink.html", null ],
+        [ "spdlog::sinks::syslog_sink< Mutex >", "classspdlog_1_1sinks_1_1syslog__sink.html", null ]
+      ] ],
+      [ "spdlog::sinks::stdout_sink< TargetStream, ConsoleMutex >", "classspdlog_1_1sinks_1_1stdout__sink.html", null ],
+      [ "spdlog::sinks::wincolor_sink< OutHandle, ConsoleMutex >", "classspdlog_1_1sinks_1_1wincolor__sink.html", null ]
+    ] ],
+    [ "spdlog::source_loc", "structspdlog_1_1source__loc.html", null ],
+    [ "spdlog::synchronous_factory", "structspdlog_1_1synchronous__factory.html", null ],
+    [ "spdlog::details::thread_pool", "classspdlog_1_1details_1_1thread__pool.html", null ]
+];

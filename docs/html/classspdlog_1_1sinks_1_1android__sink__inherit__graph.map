@@ -1,0 +1,4 @@
+<map id="spdlog::sinks::android_sink&lt; Mutex &gt;" name="spdlog::sinks::android_sink&lt; Mutex &gt;">
+<area shape="rect" id="node2" href="$classspdlog_1_1sinks_1_1base__sink.html" title="{spdlog::sinks::base\l_sink\&lt; Mutex \&gt;\n|# mutex_\l|+ base_sink()\l+ base_sink()\l+ operator=()\l+ log()\l+ flush()\l+ set_pattern()\l+ set_formatter()\l# sink_it_()\l# flush_()\l# set_pattern_()\l# set_formatter_()\l}" alt="" coords="15,277,149,516"/>
+<area shape="rect" id="node3" href="$classspdlog_1_1sinks_1_1sink.html" title="{spdlog::sinks::sink\n|# level_\l# formatter_\l|+ sink()\l+ sink()\l+ ~sink()\l+ log()\l+ flush()\l+ set_pattern()\l+ set_formatter()\l+ should_log()\l+ set_level()\l+ level()\l}" alt="" coords="17,5,147,229"/>
+</map>

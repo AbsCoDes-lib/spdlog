@@ -1,0 +1,8 @@
+<map id="spdlog::sinks::ansicolor_sink&lt; TargetStream, ConsoleMutex &gt;" name="spdlog::sinks::ansicolor_sink&lt; TargetStream, ConsoleMutex &gt;">
+<area shape="rect" id="node2" href="$classspdlog_1_1sinks_1_1sink.html" title="{spdlog::sinks::sink\n|# level_\l|+ sink()\l+ sink()\l+ ~sink()\l+ log()\l+ flush()\l+ set_pattern()\l+ set_formatter()\l+ should_log()\l+ set_level()\l+ level()\l}" alt="" coords="160,499,291,708"/>
+<area shape="rect" id="node4" href="$classspdlog_1_1formatter.html" title="{spdlog::formatter\n||+ ~formatter()\l+ format()\l+ clone()\l}" alt="" coords="170,145,289,252"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="5,160,144,237"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="443,315,581,407"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="336,322,416,399"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="313,153,439,245"/>
+</map>

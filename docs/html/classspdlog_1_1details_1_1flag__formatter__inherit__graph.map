@@ -1,0 +1,40 @@
+<map id="spdlog::details::flag_formatter" name="spdlog::details::flag_formatter">
+<area shape="rect" id="node2" href="$classspdlog_1_1details_1_1a__formatter.html" title="{spdlog::details::a\l_formatter\n||+ a_formatter()\l+ format()\l}" alt="" coords="5,219,127,325"/>
+<area shape="rect" id="node3" href="$classspdlog_1_1details_1_1_a__formatter.html" title="{spdlog::details::A\l_formatter\n||+ A_formatter()\l+ format()\l}" alt="" coords="151,219,274,325"/>
+<area shape="rect" id="node4" href="$classspdlog_1_1details_1_1aggregate__formatter.html" title="{spdlog::details::aggregate\l_formatter\n|&#45; str_\l|+ aggregate_formatter()\l+ add_ch()\l+ format()\l}" alt="" coords="298,211,469,333"/>
+<area shape="rect" id="node5" href="$classspdlog_1_1details_1_1_b__formatter.html" title="{spdlog::details::B\l_formatter\n||+ B_formatter()\l+ format()\l}" alt="" coords="493,219,615,325"/>
+<area shape="rect" id="node6" href="$classspdlog_1_1details_1_1b__formatter.html" title="{spdlog::details::b\l_formatter\n||+ b_formatter()\l+ format()\l}" alt="" coords="640,219,761,325"/>
+<area shape="rect" id="node7" href="$classspdlog_1_1details_1_1_c__formatter.html" title="{spdlog::details::C\l_formatter\n||+ C_formatter()\l+ format()\l}" alt="" coords="786,219,909,325"/>
+<area shape="rect" id="node8" href="$classspdlog_1_1details_1_1c__formatter.html" title="{spdlog::details::c\l_formatter\n||+ c_formatter()\l+ format()\l}" alt="" coords="933,219,1055,325"/>
+<area shape="rect" id="node9" href="$classspdlog_1_1details_1_1ch__formatter.html" title="{spdlog::details::ch\l_formatter\n|&#45; ch_\l|+ ch_formatter()\l+ format()\l}" alt="" coords="1079,219,1207,325"/>
+<area shape="rect" id="node10" href="$classspdlog_1_1details_1_1color__start__formatter.html" title="{spdlog::details::color\l_start_formatter\n||+ color_start_formatter()\l+ format()\l}" alt="" coords="1232,219,1393,325"/>
+<area shape="rect" id="node11" href="$classspdlog_1_1details_1_1color__stop__formatter.html" title="{spdlog::details::color\l_stop_formatter\n||+ color_stop_formatter()\l+ format()\l}" alt="" coords="1418,219,1578,325"/>
+<area shape="rect" id="node12" href="$classspdlog_1_1details_1_1_d__formatter.html" title="{spdlog::details::D\l_formatter\n||+ D_formatter()\l+ format()\l}" alt="" coords="1602,219,1725,325"/>
+<area shape="rect" id="node13" href="$classspdlog_1_1details_1_1d__formatter.html" title="{spdlog::details::d\l_formatter\n||+ d_formatter()\l+ format()\l}" alt="" coords="1749,219,1871,325"/>
+<area shape="rect" id="node14" href="$classspdlog_1_1details_1_1_e__formatter.html" title="{spdlog::details::E\l_formatter\n||+ E_formatter()\l+ format()\l}" alt="" coords="1895,219,2018,325"/>
+<area shape="rect" id="node15" href="$classspdlog_1_1details_1_1e__formatter.html" title="{spdlog::details::e\l_formatter\n||+ e_formatter()\l+ format()\l}" alt="" coords="2043,219,2164,325"/>
+<area shape="rect" id="node16" href="$classspdlog_1_1details_1_1_f__formatter.html" title="{spdlog::details::F\l_formatter\n||+ F_formatter()\l+ format()\l}" alt="" coords="2189,219,2311,325"/>
+<area shape="rect" id="node17" href="$classspdlog_1_1details_1_1f__formatter.html" title="{spdlog::details::f\l_formatter\n||+ f_formatter()\l+ format()\l}" alt="" coords="2335,219,2453,325"/>
+<area shape="rect" id="node18" href="$classspdlog_1_1details_1_1full__formatter.html" title="{spdlog::details::full\l_formatter\n|&#45; cache_timestamp_\l&#45; cached_datetime_\l|+ full_formatter()\l+ format()\l}" alt="" coords="2477,211,2617,333"/>
+<area shape="rect" id="node19" href="$classspdlog_1_1details_1_1_h__formatter.html" title="{spdlog::details::H\l_formatter\n||+ H_formatter()\l+ format()\l}" alt="" coords="2642,219,2765,325"/>
+<area shape="rect" id="node20" href="$classspdlog_1_1details_1_1_i__formatter.html" title="{spdlog::details::I\l_formatter\n||+ I_formatter()\l+ format()\l}" alt="" coords="2789,219,2906,325"/>
+<area shape="rect" id="node21" href="$classspdlog_1_1details_1_1i__formatter.html" title="{spdlog::details::i\l_formatter\n||+ i_formatter()\l+ format()\l}" alt="" coords="2930,219,3047,325"/>
+<area shape="rect" id="node22" href="$classspdlog_1_1details_1_1level__formatter.html" title="{spdlog::details::level\l_formatter\n||+ level_formatter()\l+ format()\l}" alt="" coords="3071,219,3210,325"/>
+<area shape="rect" id="node23" href="$classspdlog_1_1details_1_1_m__formatter.html" title="{spdlog::details::M\l_formatter\n||+ M_formatter()\l+ format()\l}" alt="" coords="3234,219,3359,325"/>
+<area shape="rect" id="node24" href="$classspdlog_1_1details_1_1m__formatter.html" title="{spdlog::details::m\l_formatter\n||+ m_formatter()\l+ format()\l}" alt="" coords="3383,219,3509,325"/>
+<area shape="rect" id="node25" href="$classspdlog_1_1details_1_1name__formatter.html" title="{spdlog::details::name\l_formatter\n||+ name_formatter()\l+ format()\l}" alt="" coords="3533,219,3679,325"/>
+<area shape="rect" id="node26" href="$classspdlog_1_1details_1_1p__formatter.html" title="{spdlog::details::p\l_formatter\n||+ p_formatter()\l+ format()\l}" alt="" coords="3704,219,3825,325"/>
+<area shape="rect" id="node27" href="$classspdlog_1_1details_1_1pid__formatter.html" title="{spdlog::details::pid\l_formatter\n||+ pid_formatter()\l+ format()\l}" alt="" coords="3850,219,3981,325"/>
+<area shape="rect" id="node28" href="$classspdlog_1_1details_1_1r__formatter.html" title="{spdlog::details::r\l_formatter\n||+ r_formatter()\l+ format()\l}" alt="" coords="4005,219,4124,325"/>
+<area shape="rect" id="node29" href="$classspdlog_1_1details_1_1_r__formatter.html" title="{spdlog::details::R\l_formatter\n||+ R_formatter()\l+ format()\l}" alt="" coords="4149,219,4271,325"/>
+<area shape="rect" id="node30" href="$classspdlog_1_1details_1_1_s__formatter.html" title="{spdlog::details::S\l_formatter\n||+ S_formatter()\l+ format()\l}" alt="" coords="4295,219,4418,325"/>
+<area shape="rect" id="node31" href="$classspdlog_1_1details_1_1short__level__formatter.html" title="{spdlog::details::short\l_level_formatter\n||+ short_level_formatter()\l+ format()\l}" alt="" coords="4443,219,4604,325"/>
+<area shape="rect" id="node32" href="$classspdlog_1_1details_1_1source__filename__formatter.html" title="{spdlog::details::source\l_filename_formatter\n||+ source_filename_formatter()\l+ format()\l}" alt="" coords="4629,219,4823,325"/>
+<area shape="rect" id="node33" href="$classspdlog_1_1details_1_1source__linenum__formatter.html" title="{spdlog::details::source\l_linenum_formatter\n||+ source_linenum_formatter()\l+ format()\l}" alt="" coords="4848,219,5039,325"/>
+<area shape="rect" id="node34" href="$classspdlog_1_1details_1_1source__location__formatter.html" title="{spdlog::details::source\l_location_formatter\n||+ source_location_formatter()\l+ format()\l}" alt="" coords="5063,219,5253,325"/>
+<area shape="rect" id="node35" href="$classspdlog_1_1details_1_1_t__formatter.html" title="{spdlog::details::T\l_formatter\n||+ T_formatter()\l+ format()\l}" alt="" coords="5277,219,5399,325"/>
+<area shape="rect" id="node36" href="$classspdlog_1_1details_1_1t__formatter.html" title="{spdlog::details::t\l_formatter\n||+ t_formatter()\l+ format()\l}" alt="" coords="5423,219,5541,325"/>
+<area shape="rect" id="node37" href="$classspdlog_1_1details_1_1v__formatter.html" title="{spdlog::details::v\l_formatter\n||+ v_formatter()\l+ format()\l}" alt="" coords="5565,219,5684,325"/>
+<area shape="rect" id="node38" href="$classspdlog_1_1details_1_1_y__formatter.html" title="{spdlog::details::Y\l_formatter\n||+ Y_formatter()\l+ format()\l}" alt="" coords="5709,219,5831,325"/>
+<area shape="rect" id="node39" href="$classspdlog_1_1details_1_1z__formatter.html" title="{spdlog::details::z\l_formatter\n|+ cache_refresh\l&#45; last_update_\l|+ z_formatter()\l+ z_formatter()\l+ z_formatter()\l+ operator=()\l+ format()\l}" alt="" coords="5856,189,5977,355"/>
+</map>

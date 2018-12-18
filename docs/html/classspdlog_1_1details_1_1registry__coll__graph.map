@@ -1,0 +1,9 @@
+<map id="spdlog::details::registry" name="spdlog::details::registry">
+<area shape="rect" id="node3" title="STL class. " alt="" coords="29,204,109,281"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="5,5,132,97"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="133,197,271,289"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="438,204,577,281"/>
+<area shape="rect" id="node9" href="$classspdlog_1_1details_1_1periodic__worker.html" title="{spdlog::details::periodic\l_worker\n|&#45; active_\l&#45; mutex_\l&#45; cv_\l|+ periodic_worker()\l+ periodic_worker()\l+ operator=()\l+ ~periodic_worker()\l}" alt="" coords="629,160,788,325"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="667,13,751,90"/>
+<area shape="rect" id="node13" href="$classspdlog_1_1formatter.html" title="{spdlog::formatter\n||+ ~formatter()\l+ format()\l+ clone()\l}" alt="" coords="295,189,413,296"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="spdlog::formatter" name="spdlog::formatter">
+<area shape="rect" id="node2" href="$classspdlog_1_1pattern__formatter.html" title="{spdlog::pattern_formatter\n|&#45; pattern_\l&#45; eol_\l&#45; pattern_time_type_\l&#45; cached_tm_\l&#45; last_log_secs_\l&#45; formatters_\l|+ pattern_formatter()\l+ pattern_formatter()\l+ pattern_formatter()\l+ operator=()\l+ clone()\l+ format()\l&#45; get_time_()\l&#45; handle_flag_()\l&#45; handle_padspec_()\l&#45; compile_pattern_()\l}" alt="" coords="5,160,172,443"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="spdlog::sinks::stdout_sink&lt; TargetStream, ConsoleMutex &gt;" name="spdlog::sinks::stdout_sink&lt; TargetStream, ConsoleMutex &gt;">
+<area shape="rect" id="node2" href="$classspdlog_1_1sinks_1_1sink.html" title="{spdlog::sinks::sink\n|# level_\l|+ sink()\l+ sink()\l+ ~sink()\l+ log()\l+ flush()\l+ set_pattern()\l+ set_formatter()\l+ should_log()\l+ set_level()\l+ level()\l}" alt="" coords="51,469,182,679"/>
+<area shape="rect" id="node4" href="$classspdlog_1_1formatter.html" title="{spdlog::formatter\n||+ ~formatter()\l+ format()\l+ clone()\l}" alt="" coords="5,145,124,252"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="149,160,287,237"/>
+</map>
