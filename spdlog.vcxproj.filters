@@ -146,6 +146,9 @@
     <ClInclude Include="include\spdlog\fmt\bin_to_hex.h">
       <Filter>include\spdlog\fmt</Filter>
     </ClInclude>
+    <ClInclude Include="include\spdlog\sinks\eventlog_sink.h">
+      <Filter>include\spdlog\sinks</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />

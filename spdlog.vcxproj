@@ -62,6 +62,7 @@
     <ClInclude Include="include\spdlog\sinks\basic_file_sink.h" />
     <ClInclude Include="include\spdlog\sinks\daily_file_sink.h" />
     <ClInclude Include="include\spdlog\sinks\dist_sink.h" />
+    <ClInclude Include="include\spdlog\sinks\eventlog_sink.h" />
     <ClInclude Include="include\spdlog\sinks\msvc_sink.h" />
     <ClInclude Include="include\spdlog\sinks\null_sink.h" />
     <ClInclude Include="include\spdlog\sinks\ostream_sink.h" />

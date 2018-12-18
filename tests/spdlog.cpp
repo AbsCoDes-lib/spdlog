@@ -6,6 +6,7 @@
 #include "spdlog\sinks\daily_file_sink.h"
 #include "spdlog\sinks\rotating_file_sink.h"
 #include "spdlog/sinks/stdout_color_sinks.h"
+#include "spdlog/sinks/eventlog_sink.h"
 #include "spdlog/fmt/bin_to_hex.h"
 // User defined types logging by implementing operator<<
 #include "spdlog/fmt/ostr.h"
@@ -77,6 +78,9 @@ namespace spdlogTests
 
 				// syslog example. linux/osx only
 				syslog_example();
+
+				// eventLog example. windows only
+				eventlog_example();
 
 				// Log user-defined types example
 				user_defined_example();
@@ -237,8 +241,16 @@ namespace spdlogTests
 		{
 		#ifdef SPDLOG_ENABLE_SYSLOG
 			std::string ident = "spdlog-example";
-			auto syslog_logger = spd::syslog_logger("syslog", ident, LOG_PID);
+			auto syslog_logger = spdlog::syslog_logger("syslog", ident, LOG_PID);
 			syslog_logger->warn("This is warning that will end up in syslog.");
+		#endif
+		}
+		void eventlog_example()
+		{
+		#if defined(_WIN32)
+			std::wstring source_name = L"spdlog-event-example";
+			auto eventlog_logger = spdlog::eventlog_logger_mt("eventlog", source_name);
+			eventlog_logger->warn("This is warning that will end up in eventlog.");
 		#endif
 		}
 

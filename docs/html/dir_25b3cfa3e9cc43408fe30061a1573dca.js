@@ -6,6 +6,7 @@ var dir_25b3cfa3e9cc43408fe30061a1573dca =
     [ "basic_file_sink.h", "basic__file__sink_8h_source.html", null ],
     [ "daily_file_sink.h", "daily__file__sink_8h_source.html", null ],
     [ "dist_sink.h", "dist__sink_8h_source.html", null ],
+    [ "eventlog_sink.h", "eventlog__sink_8h_source.html", null ],
     [ "msvc_sink.h", "msvc__sink_8h_source.html", null ],
     [ "null_sink.h", "null__sink_8h_source.html", null ],
     [ "ostream_sink.h", "ostream__sink_8h_source.html", null ],
