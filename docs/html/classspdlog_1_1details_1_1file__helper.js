@@ -11,7 +11,7 @@ var classspdlog_1_1details_1_1file__helper =
     [ "operator=", "classspdlog_1_1details_1_1file__helper.html#a7c7314360e404efa02326feb7aa98442", null ],
     [ "reopen", "classspdlog_1_1details_1_1file__helper.html#a21c688da7f241c53871b462c3a5c2c94", null ],
     [ "size", "classspdlog_1_1details_1_1file__helper.html#ae945d9701134218c2d0558958e9d1cf2", null ],
-    [ "split_by_extenstion", "classspdlog_1_1details_1_1file__helper.html#a3e8a67ca254a5bf7c8e2554260d90870", null ],
+    [ "split_by_extension", "classspdlog_1_1details_1_1file__helper.html#a28d87e3f42c52a12c95af0558aca66f2", null ],
     [ "write", "classspdlog_1_1details_1_1file__helper.html#a51eb58a2d46f1896f3ab7b9d323d97ae", null ],
     [ "_filename", "classspdlog_1_1details_1_1file__helper.html#a412b2a8aff13cea9074dd08a11c7cb31", null ],
     [ "fd_", "classspdlog_1_1details_1_1file__helper.html#af0cd3904e6fe42890540bbe7a42b4ac7", null ],

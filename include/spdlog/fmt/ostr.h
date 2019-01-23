@@ -14,5 +14,5 @@
 #include "bundled/ostream.h"
 #include "fmt.h"
 #else
-#include <fmt/ostr.h>
+#include <fmt/ostream.h>
 #endif

@@ -1,5 +1,8 @@
 var NAVTREEINDEX2 =
 {
+"classspdlog_1_1sinks_1_1syslog__sink.html#a055f09f1fca3c6614434fa5af4c8ab55":[0,0,2,1,12,6],
+"classspdlog_1_1sinks_1_1syslog__sink.html#a303bccf40cd03356510391c493078005":[0,0,2,1,12,5],
+"classspdlog_1_1sinks_1_1syslog__sink.html#a3e2454370f91c3fe2befb3f24e25ede7":[0,0,2,1,12,4],
 "classspdlog_1_1sinks_1_1syslog__sink.html#a505adae200592eab1e093ab258ad0291":[0,0,2,1,12,2],
 "classspdlog_1_1sinks_1_1syslog__sink.html#a6afb5ba7ef5e5f2950e624ec650fb562":[0,0,2,1,12,3],
 "classspdlog_1_1sinks_1_1syslog__sink.html#ab30fbc5192c9bab2056b46f4b9653fe3":[0,0,2,1,12,7],
@@ -148,10 +151,11 @@ var NAVTREEINDEX2 =
 "structspdlog_1_1sinks_1_1daily__filename__calculator.html":[0,0,2,1,5],
 "structspdlog_1_1sinks_1_1daily__filename__calculator.html#ae8461e586d3426987a3b11a00b158db2":[0,0,2,1,5,0],
 "structspdlog_1_1source__loc.html":[0,0,2,7],
-"structspdlog_1_1source__loc.html#a1742569c23cc7e3a01fa6de6f43cc60f":[0,0,2,7,4],
+"structspdlog_1_1source__loc.html#a162cee7b0c3236e0baa0e7d7d8a4cb7b":[0,0,2,7,1],
+"structspdlog_1_1source__loc.html#a1742569c23cc7e3a01fa6de6f43cc60f":[0,0,2,7,5],
 "structspdlog_1_1source__loc.html#a342ef1c40ab4d15356f60fd214c38044":[0,0,2,7,0],
+"structspdlog_1_1source__loc.html#a622d48d070d0421ec91a6484923aacd2":[0,0,2,7,4],
 "structspdlog_1_1source__loc.html#a87cedeee3cb80521f33c3cf86651ae96":[0,0,2,7,2],
-"structspdlog_1_1source__loc.html#aa0c44cd6d9dc23258d20205d7bd9cbaf":[0,0,2,7,1],
 "structspdlog_1_1source__loc.html#af67920703a5ba0a5557eb86667e09c80":[0,0,2,7,3],
 "structspdlog_1_1synchronous__factory.html":[0,0,2,9],
 "structspdlog_1_1synchronous__factory.html#acde09e4f9f33281ab1e663de5ef703b5":[0,0,2,9,0],

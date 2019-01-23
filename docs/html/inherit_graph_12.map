@@ -1,5 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classspdlog_1_1details_1_1flag__formatter.html" title="spdlog::details::flag\l_formatter" alt="" coords="5,1215,140,1256"/>
+<area shape="rect" id="node1" href="$classspdlog_1_1details_1_1flag__formatter.html" title="spdlog::details::flag\l_formatter" alt="" coords="5,1247,140,1288"/>
 <area shape="rect" id="node2" href="$classspdlog_1_1details_1_1a__formatter.html" title="spdlog::details::a\l_formatter" alt="" coords="213,5,334,47"/>
 <area shape="rect" id="node3" href="$classspdlog_1_1details_1_1_a__formatter.html" title="spdlog::details::A\l_formatter" alt="" coords="212,71,335,112"/>
 <area shape="rect" id="node4" href="$classspdlog_1_1details_1_1aggregate__formatter.html" title="spdlog::details::aggregate\l_formatter" alt="" coords="188,136,359,177"/>
@@ -31,11 +31,12 @@
 <area shape="rect" id="node30" href="$classspdlog_1_1details_1_1_s__formatter.html" title="spdlog::details::S\l_formatter" alt="" coords="212,1835,335,1876"/>
 <area shape="rect" id="node31" href="$classspdlog_1_1details_1_1short__level__formatter.html" title="spdlog::details::short\l_level_formatter" alt="" coords="202,1900,345,1941"/>
 <area shape="rect" id="node32" href="$classspdlog_1_1details_1_1source__filename__formatter.html" title="spdlog::details::source\l_filename_formatter" alt="" coords="197,1965,350,2007"/>
-<area shape="rect" id="node33" href="$classspdlog_1_1details_1_1source__linenum__formatter.html" title="spdlog::details::source\l_linenum_formatter" alt="" coords="197,2031,350,2072"/>
-<area shape="rect" id="node34" href="$classspdlog_1_1details_1_1source__location__formatter.html" title="spdlog::details::source\l_location_formatter" alt="" coords="197,2096,350,2137"/>
-<area shape="rect" id="node35" href="$classspdlog_1_1details_1_1_t__formatter.html" title="spdlog::details::T\l_formatter" alt="" coords="213,2161,334,2203"/>
-<area shape="rect" id="node36" href="$classspdlog_1_1details_1_1t__formatter.html" title="spdlog::details::t\l_formatter" alt="" coords="214,2227,333,2268"/>
-<area shape="rect" id="node37" href="$classspdlog_1_1details_1_1v__formatter.html" title="spdlog::details::v\l_formatter" alt="" coords="214,2292,333,2333"/>
-<area shape="rect" id="node38" href="$classspdlog_1_1details_1_1_y__formatter.html" title="spdlog::details::Y\l_formatter" alt="" coords="212,2357,335,2399"/>
-<area shape="rect" id="node39" href="$classspdlog_1_1details_1_1z__formatter.html" title="spdlog::details::z\l_formatter" alt="" coords="213,2423,334,2464"/>
+<area shape="rect" id="node33" href="$classspdlog_1_1details_1_1source__funcname__formatter.html" title="spdlog::details::source\l_funcname_formatter" alt="" coords="197,2031,350,2072"/>
+<area shape="rect" id="node34" href="$classspdlog_1_1details_1_1source__linenum__formatter.html" title="spdlog::details::source\l_linenum_formatter" alt="" coords="197,2096,350,2137"/>
+<area shape="rect" id="node35" href="$classspdlog_1_1details_1_1source__location__formatter.html" title="spdlog::details::source\l_location_formatter" alt="" coords="197,2161,350,2203"/>
+<area shape="rect" id="node36" href="$classspdlog_1_1details_1_1_t__formatter.html" title="spdlog::details::T\l_formatter" alt="" coords="213,2227,334,2268"/>
+<area shape="rect" id="node37" href="$classspdlog_1_1details_1_1t__formatter.html" title="spdlog::details::t\l_formatter" alt="" coords="214,2292,333,2333"/>
+<area shape="rect" id="node38" href="$classspdlog_1_1details_1_1v__formatter.html" title="spdlog::details::v\l_formatter" alt="" coords="214,2357,333,2399"/>
+<area shape="rect" id="node39" href="$classspdlog_1_1details_1_1_y__formatter.html" title="spdlog::details::Y\l_formatter" alt="" coords="212,2423,335,2464"/>
+<area shape="rect" id="node40" href="$classspdlog_1_1details_1_1z__formatter.html" title="spdlog::details::z\l_formatter" alt="" coords="213,2488,334,2529"/>
 </map>

@@ -1,5 +1,5 @@
 <map id="spdlog::details::log_msg" name="spdlog::details::log_msg">
-<area shape="rect" id="node2" href="$structspdlog_1_1source__loc.html" title="{spdlog::source_loc\n|+ filename\l+ line\l|+ source_loc()\l+ source_loc()\l+ empty()\l}" alt="" coords="5,147,136,268"/>
-<area shape="rect" id="node3" title="STL class. " alt="" coords="160,169,240,246"/>
+<area shape="rect" id="node2" href="$structspdlog_1_1source__loc.html" title="{spdlog::source_loc\n|+ filename\l+ line\l+ funcname\l|+ source_loc()\l+ source_loc()\l+ empty()\l}" alt="" coords="5,147,136,283"/>
+<area shape="rect" id="node3" title="STL class. " alt="" coords="160,176,240,253"/>
 <area shape="rect" id="node4" title="STL class. " alt="" coords="137,5,263,97"/>
 </map>

@@ -50,6 +50,7 @@ var hierarchy =
       [ "spdlog::details::S_formatter", "classspdlog_1_1details_1_1_s__formatter.html", null ],
       [ "spdlog::details::short_level_formatter", "classspdlog_1_1details_1_1short__level__formatter.html", null ],
       [ "spdlog::details::source_filename_formatter", "classspdlog_1_1details_1_1source__filename__formatter.html", null ],
+      [ "spdlog::details::source_funcname_formatter", "classspdlog_1_1details_1_1source__funcname__formatter.html", null ],
       [ "spdlog::details::source_linenum_formatter", "classspdlog_1_1details_1_1source__linenum__formatter.html", null ],
       [ "spdlog::details::source_location_formatter", "classspdlog_1_1details_1_1source__location__formatter.html", null ],
       [ "spdlog::details::T_formatter", "classspdlog_1_1details_1_1_t__formatter.html", null ],
